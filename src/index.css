@@ -1,0 +1,222 @@
+html,body{
+    font-family: 'Source Sans Pro', sans-serif;
+    width:100%;
+    height:100%
+}
+#navbar{
+    width: 1325px;
+    height: 101px;
+    background: #000000;
+    display: flex;
+    justify-content: space-between;
+}
+#navbar a{
+    text-decoration: none;
+}   
+#rect a  {
+    text-decoration: none;
+    color: black;
+}
+#navbar a:hover {
+    color: black;
+}
+#phong{
+    font-size: 35px;
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    margin-right: 70px;
+    text-align: center;
+    line-height: 101px;
+    color:bl
+}
+#muiten{
+    display: flex;
+    justify-content: space-around;
+    margin: 16px;
+    margin-top: 50px;
+}
+#cochu{
+    font-size: 54px;
+    text-align: center;
+}
+#navbar > img{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.hotel{
+    display: flex;
+    margin-top: 10px;
+    padding: 10px;
+    justify-content: center;    
+    
+}
+.hotel > img{
+    box-shadow: 2px 2px 10px rgb(63, 60, 60);
+}
+.h1{
+    background: #D9BDE2;
+    padding: 16px;
+    max-height: 666px;
+    font-size: 26px;
+    box-shadow: 2px 2px 10px rgb(63, 60, 60);
+}
+.h1 > div{
+    margin: 8px;
+}
+.hotel-title{
+    text-align: center;
+    font-size: 40px;
+}
+.star{
+    color: rgb(255, 255, 0);
+    font-size: 45px;
+    width: 200px;
+}
+.h-price{
+    background: red;
+    width: 350px;
+    height: 70px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 70px;
+}
+.flexx{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+}
+.h-detail{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.bold{
+    font-weight: 900;   
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+#rect{
+    width: 1440;
+    height: 353;
+    background: #2fcde3;    
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    margin-top: 50px;
+    padding: 16px;
+}
+b{
+}
+#giaca{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+#navbar > a{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+#muiten2{
+    display: flex;
+    justify-items: end;
+}
+h1{
+}
+
+html{
+    width: 1440px;
+height: 900px;
+}
+#ld{
+width: 1440px;
+height: 820px;
+background-image: url("https://scontent.fhan1-1.fna.fbcdn.net/v/t1.15752-9/66361850_1099542310241369_2363883230156816384_n.jpg?_nc_cat=100&_nc_oc=AQnKTzsMe-1aur5RuBfromGMSG2tBkS4HobLgaCD2PLB4ggU1-C5S55lytQnC0GWkv8&_nc_ht=scontent.fhan1-1.fna&oh=9e7006ed6b2d2c080746a485c210eb9b&oe=5DB01302");
+background-size: 100% 100%;
+display: flex;
+flex-direction: column;
+text-align: center;
+align-items: center;
+}
+#nb{
+width: 1440px;
+height: 80px;
+background-color: #2fcde3 ;
+}
+.first{
+font-size: 90px;
+color: #ED8B56;
+}
+.next{
+font-size: 46px;
+color: #ED8B56;
+}
+#box{
+width: 600px;
+height: 80px;
+display: flex;
+font-size: 36px;
+justify-content: space-around;
+line-height: 90px;
+border-radius: 30px;
+padding-left: 60px;
+}
+#box::placeholder{
+font-size: 36px;
+}
+#choose-city{
+display: flex;
+margin: 40px 0px 0px 0px;
+}
+#navbar{
+width: 1440px;
+height: 101px;
+background: #2fcde3;
+display: flex;
+justify-content: space-between;
+}
+#phong{
+font-size: 35px;
+display: flex;
+width: 40%;
+justify-content: space-between;
+margin-right: 70px;
+text-align: center;
+line-height: 101px;
+}
+#navbar a{
+text-decoration: none;
+}   
+#rect a  {
+text-decoration: none;
+color: black;
+}
+#navbar a:hover {
+color: black;
+}
+.p{
+    background-color: rgb(160, 175, 76);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.y{
+    background-color: rgb(160, 175, 76);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
